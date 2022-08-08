@@ -1,0 +1,7 @@
+Breakpoints (gdb) b
+Backtrace bt
+n for next line
+watchpoints to alert whenevr there is a change in value 
+example
+watch a 
+watch b
