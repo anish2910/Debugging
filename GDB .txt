@@ -1,3 +1,6 @@
+GDB stands for GNU debugger.
+Step 1: compile
+Step 2:  start GDB
 Breakpoints (gdb) b
 Backtrace bt
 n for next line
